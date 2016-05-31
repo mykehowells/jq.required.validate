@@ -1,0 +1,30 @@
+{
+  "name": "jq.required.validate",
+  "authors": [
+    "Myke Howells <myke@mykeand.co>"
+  ],
+  "description": "Validator object for form validation, because [required] attribute isn't supported across all browsers.",
+  "main": "jq.required.validate.js",
+  "keywords": [
+    "jquery",
+    "validate",
+    "required",
+    "attribute",
+    "browsers",
+    "validation",
+    "javascript",
+    "simple"
+  ],
+  "license": "MIT",
+  "homepage": "http://mykehowells.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
